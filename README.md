@@ -1,5 +1,5 @@
 <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/31204c1b-bb41-4cb7-bd27-85f8de2140b0" />
-How to Run This React + Firebase Project for Complete Beginners
+How to Run This React + Firebase Project for Complete Beginners(sorry i still not upload all file so wait)
 
 This guide assumes you have never used Node.js, npm, React, or Firebase. Follow carefully.
 
