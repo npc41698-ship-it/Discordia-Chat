@@ -1,3 +1,4 @@
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/31204c1b-bb41-4cb7-bd27-85f8de2140b0" />
 How to Run This React + Firebase Project for Complete Beginners
 
 This guide assumes you have never used Node.js, npm, React, or Firebase. Follow carefully.
@@ -165,15 +166,3 @@ Deploy the /build folder to GitHub Pages.
 
 Your app will then be live on the web.
 
-✅ Summary for Beginners
-
-Step	Command/Action
-Install Node.js & npm	Download from nodejs.org
-Go to project folder	cd /mnt/data/discordia_project
-Install dependencies	npm install
-Run dev server	npm run dev
-Open in browser	http://localhost:5173
-Check Firebase	Make sure config and rules are correct
-Use chat app	Type messages, they appear in real-time
-Stop server	Press Ctrl + C in terminal
-Deploy online (optional)	npm run build → GitHub Pages
